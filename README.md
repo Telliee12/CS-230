@@ -12,7 +12,7 @@ The Gaming room is looking to develop a web-based game that serves multiple plat
 
 What did you do particularly well in developing this documentation?
 
-While developing this document I feel I did particularly well in my explanations of the Executive summary, Design constraints and the Domain model. I made sure I provided as much detail as possible to the client so that would have a full understating of what was going on. 
+While developing this document I feel I did particularly well in my explanations of the Executive summary, Design constraints and the Domain model. I made sure I provided as much detail as possible to the client so that I would have a full understating of what was going on. 
 
 
 What about the process of working through a design document did you find helpful when developing the code?
